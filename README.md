@@ -32,6 +32,7 @@
 ```
 /Claude-Code-in-Action
 ├── README.md              # 프로젝트 소개 및 전체 목차
+├── images/   
 ├── 01_Introduction/       # 'What is Claude Code?'
 │   ├── 01_What-is-Claude-Code.md
 │   ├── 02_What-is-a-Coding-Assistant.md
