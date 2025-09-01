@@ -1,3 +1,5 @@
+원문 : https://anthropic.skilljar.com/claude-code-in-action/303241
+
 코딩 프로젝트에서 Claude와 함께 작업할 때, 컨텍스트 관리는 매우 중요합니다. 프로젝트에는 수십, 수백 개의 파일이 있을 수 있지만, Claude가 효과적으로 돕기 위해서는 올바른 정보만 필요합니다. 관련 없는 컨텍스트가 너무 많으면 오히려 Claude의 성능이 저하되므로, 관련 파일과 문서로 안내하는 방법을 배우는 것이 중요합니다.
 
 ![사진1](../images/adding-context_1.png)
